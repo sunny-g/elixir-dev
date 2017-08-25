@@ -1,0 +1,1117 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_",
+				"get_or_create_aggregate_pid"
+			],
+			[
+				"aggre",
+				"aggregate_id"
+			],
+			[
+				"oper",
+				"operand1"
+			],
+			[
+				"long",
+				"longest_line"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "es/elixir_cqrs_es/README.md",
+			"settings":
+			{
+				"buffer_size": 2405,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/bank_app.ex",
+			"settings":
+			{
+				"buffer_size": 394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/bank_sup.ex",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/bank.ex",
+			"settings":
+			{
+				"buffer_size": 904,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/event_bus.ex",
+			"settings":
+			{
+				"buffer_size": 770,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/account.ex",
+			"settings":
+			{
+				"buffer_size": 4683,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/account_detail.ex",
+			"settings":
+			{
+				"buffer_size": 1883,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/account_summary.ex",
+			"settings":
+			{
+				"buffer_size": 953,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/projections/account_summary.ex",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/command_handler.ex",
+			"settings":
+			{
+				"buffer_size": 1908,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/keypid.ex",
+			"settings":
+			{
+				"buffer_size": 730,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/read_store.ex",
+			"settings":
+			{
+				"buffer_size": 1054,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/account_repo.ex",
+			"settings":
+			{
+				"buffer_size": 951,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/event_store.ex",
+			"settings":
+			{
+				"buffer_size": 934,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "es/elixir_cqrs_es/lib/bank/event_handler.ex",
+			"settings":
+			{
+				"buffer_size": 1492,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: add",
+		"selected_items":
+		[
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 365.0
+	},
+	"console":
+	{
+		"height": 96.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sunnyg/gitdev/elixir-dev",
+		"/Users/sunnyg/gitdev/elixir-dev/es",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/projections",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib"
+	],
+	"file_history":
+	[
+		"/Users/sunnyg/gitdev/elixir-dev/es/myprac/lib/myprac.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib/counter.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib/command_service.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib/event_store.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib/event_handler.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib/aggregate_root.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/command_handler.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/mix.exs",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/account_detail.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/keypid.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/Datastore Ideas.md",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/read_store.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/event_bus.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es/lib/bank/projections/account_summary.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/eventstore/lib/event_store/storage.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/eventstore/lib/event_store/storage/database.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/eventstore/lib/event_store/serializer.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/eventstore/lib/event_store/recorded_event.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/learn_es/lib/learn_es.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/myprac/lib/es/aggregate.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/es/event-sourcing-in-practice/README.md",
+		"/Users/sunnyg/gitdev/elixir-dev/es/eventsourced/README.md",
+		"/Users/sunnyg/gitdev/elixir-dev/meta/chap2/assertions.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/meta/chap2/math_test.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/meta/chap2/new_if.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/inaction/chapter4.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/inaction/chapter3.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/meta/unless.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/meta/macro1.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/pragprog/Math.ex",
+		"/Users/sunnyg/gitdev/elixir-dev/pragprog/hello.exs",
+		"/Users/sunnyg/gitdev/elixir-dev/inaction/chapter3/stream.ex",
+		"/Users/sunnyg/gitdev/remcycle/README.md",
+		"/Users/sunnyg/gitdev/remcycle/src/run.ts",
+		"/Users/sunnyg/gitdev/remcycle/.gitignore",
+		"/Users/sunnyg/gitdev/remcycle/webpack.config.js",
+		"/Users/sunnyg/gitdev/remcycle/example/props.js",
+		"/Users/sunnyg/gitdev/remcycle/example/actions.js",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/mapActionsToProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/omitProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/omitActions.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/mapProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/onlyUpdateForProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/example/withProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/withMemoizedProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/example/mapProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/example/mapActions.ts",
+		"/Users/sunnyg/gitdev/remcycle/node_modules/most/type-definitions/most.d.ts",
+		"/Users/sunnyg/gitdev/remcycle/example/onlyUpdateForProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/node_modules/most/dist/most.js",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/withChildren.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/mapActions.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/mapActionStreams.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/withActions.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/logProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/withProps.ts",
+		"/Users/sunnyg/gitdev/remcycle/node_modules/@motorcycle/collection/package.json",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/withChildrenState.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/withChildrenState.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/hoc/isolate.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/Component.ts",
+		"/Users/sunnyg/gitdev/remcycle/src/util.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/ReactSource.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/index.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/native.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/dom.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/example/todolist/webpack.config.js",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/interfaces.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/ReactEventSource.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/MainReactEventSource.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/MainReactDOMSource.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/isolate.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/reactdom-driver.ts",
+		"/Users/sunnyg/gitdev/cycle-react-driver/src/react-driver.ts",
+		"/Users/sunnyg/gitdev/cycle-utils/src/index.js",
+		"/Users/sunnyg/gitdev/cycle-utils/src/mapSources.ts",
+		"/Users/sunnyg/gitdev/cycle-redux-driver/package.json",
+		"/Users/sunnyg/gitdev/cycle-redux-driver/test/test.js",
+		"/Users/sunnyg/gitdev/cycle-redux-driver/index.js",
+		"/Users/sunnyg/gitdev/cycle-redux-driver/.gitignore",
+		"/Users/sunnyg/gitdev/raidenjs/index.js",
+		"/Users/sunnyg/gitdev/raidenjs/drivers/cycle-redux-driver/index.js",
+		"/Users/sunnyg/gitdev/raiden/raiden/blockchain/net_contract.py",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/Users/sunnyg/gitdev/raiden/raiden/raiden_service.py",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/User/BufferScroll.sublime-settings",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/User/FoldPython.sublime-settings",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/Fold Python/FoldPython.sublime-settings",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/sunnyg/gitdev/raiden/raiden/smart_contracts/NettingChannelLibrary.sol",
+		"/Users/sunnyg/gitdev/raiden/raiden/smart_contracts/NettingChannelContract.sol",
+		"/Users/sunnyg/gitdev/raiden/raiden/smart_contracts/EndpointRegistry.sol",
+		"/Users/sunnyg/gitdev/raiden/raiden/smart_contracts/Registry.sol",
+		"/Users/sunnyg/gitdev/raiden/raiden/smart_contracts/ChannelManagerContract.sol",
+		"/Users/sunnyg/gitdev/raiden/raiden/messages.py",
+		"/Users/sunnyg/gitdev/raiden/tools/tmuxtest.sh",
+		"/Users/sunnyg/gitdev/raiden/raiden/network/rpc/client.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/network/channelgraph.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/network/nat.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/network/transport.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/network/discovery.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/utils/__init__.py",
+		"/Users/sunnyg/gitdev/descarteslabs/maplayers/debug.py",
+		"/Users/sunnyg/gitdev/descarteslabs/maplayers/app.py",
+		"/Users/sunnyg/gitdev/cycle-onionify/src/index.ts",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sunnyg/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sunnyg/gitdev/descarteslabs/maplayers/layers/legacy/basemaps_legacy.json",
+		"/Users/sunnyg/gitdev/raiden/raiden/encoding/messages.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/smart_contracts/ChannelManagerLibrary.sol",
+		"/Users/sunnyg/gitdev/raiden/raiden/tests/utils/transfer.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/main.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/app.py",
+		"/Users/sunnyg/gitdev/raiden/raiden/encoding/__init__.py",
+		"/Users/sunnyg/gitdev/raiden/prepare_poc_release.sh",
+		"/Users/sunnyg/.config/fisherman/bass/functions/__bass.py",
+		"/Users/sunnyg/.config/fisherman/bass/functions/bass.fish",
+		"/Users/sunnyg/.config/fish/completions/nvm.fish",
+		"/Users/sunnyg/.config/fish/completions/fisher.fish"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/sunnyg/gitdev/elixir-dev/es/elixir_cqrs_es",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"keypid",
+			"from",
+			"send",
+			"MoneyDeposited",
+			" \n",
+			"command",
+			"commands",
+			"__MODULE__",
+			"CONCEPTS",
+			"Bank.Projections.AccountSummary",
+			"ReadStore",
+			"callback",
+			"__MODULE__",
+			"update_callback",
+			"callback",
+			"function",
+			"state",
+			"initial_state",
+			"state",
+			"get_or_create_aggregate_pid",
+			"get_aggregate_pid",
+			"within_aggregate",
+			"initial_state",
+			"aggregate",
+			"ES.Aggregate.Root",
+			"Root",
+			"returning",
+			":",
+			"test_func",
+			"operand2",
+			"operand1",
+			"param",
+			"param1",
+			"block",
+			"expression",
+			"string",
+			"line",
+			"Stream",
+			"File.stream!(path)",
+			"len",
+			"reduce",
+			"line",
+			"filepath",
+			"lines_length",
+			"sinks",
+			"model",
+			"actions",
+			"HOC",
+			"hoc",
+			"HOC",
+			"dist",
+			"combineLatest",
+			"props$",
+			"combineLatest",
+			"mappedAction$",
+			"mergeArray",
+			"action$",
+			"combineLatest",
+			"actions",
+			"mapActions",
+			"mapSinksWithSources",
+			"mapper",
+			"propNames",
+			"Actions",
+			"props$",
+			"PropsStream",
+			"Array",
+			"props$",
+			"propNames",
+			"namesOrPropsOrCreator",
+			"namesOrProps",
+			"Props",
+			"objOrFn",
+			"Props",
+			"HigherOrderComponent",
+			"propsSource",
+			"combineArray",
+			"{}",
+			"Function",
+			"sample",
+			"watchedProps$",
+			"combineArray",
+			"mapper",
+			"propNames",
+			"mapProps",
+			"withProps",
+			"withState",
+			"propStreams$",
+			"objOrFn",
+			"HigherOrderComponent",
+			"objOrFn",
+			"withProps",
+			"withMemoizedProps",
+			"Props",
+			"propAdder",
+			"withChildren",
+			"Children",
+			"children",
+			"Children",
+			"sinkReducer",
+			"reducer",
+			"sinks",
+			"reduxSinks",
+			"reduxSink",
+			"combiner",
+			"actionType",
+			"newReduxSink",
+			"ActionSinkCollection",
+			"ActionStream",
+			"Action",
+			"action",
+			"Action",
+			"action",
+			"Action",
+			"ActionSinkCollection",
+			"ActionStream",
+			"propsSource",
+			"props",
+			"mapSinks",
+			"key",
+			"any",
+			"sample",
+			"map",
+			"sink",
+			"ActionStream",
+			"Stream",
+			"HigherOrderComponent",
+			"string"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "es/elixir_cqrs_es/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1230,
+								1230
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "9bf4dc92",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 695.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "es/elixir_cqrs_es/lib/bank/bank_app.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "8d2951e4",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "es/elixir_cqrs_es/lib/bank/bank_sup.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "780056f0",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "es/elixir_cqrs_es/lib/bank/bank.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "4d6367b6",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "es/elixir_cqrs_es/lib/bank/event_bus.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "fd8288c2",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "es/elixir_cqrs_es/lib/bank/account.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								773
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "40dc34da",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 363.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "es/elixir_cqrs_es/lib/bank/account_detail.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "03062c8b",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "es/elixir_cqrs_es/lib/bank/account_summary.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								843,
+								843
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "50723757",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "es/elixir_cqrs_es/lib/bank/projections/account_summary.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "26459caf",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "es/elixir_cqrs_es/lib/bank/command_handler.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "0674fdba",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "es/elixir_cqrs_es/lib/bank/keypid.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "d3a22204",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "es/elixir_cqrs_es/lib/bank/read_store.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "49f7bd2f",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 12,
+					"file": "es/elixir_cqrs_es/lib/bank/account_repo.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "0ddb330c",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "es/elixir_cqrs_es/lib/bank/event_store.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "f501289c",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "es/elixir_cqrs_es/lib/bank/event_handler.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "elixir",
+							"buffer_scroll_name": "9d4d5828",
+							"spell_check": false,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "elixir-dev.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
